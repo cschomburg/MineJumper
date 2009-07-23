@@ -1,0 +1,13 @@
+## Interface: 30200
+## Title: MineJumper
+## Author: Cargor
+## Version: 1.0
+## X-eMail: xconstruct@gmail.com
+## Notes: brokers your mine jumping skillz!
+## SavedVariables: MineJumper
+
+LibStub.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1.lua
+
+MineJumper.lua
